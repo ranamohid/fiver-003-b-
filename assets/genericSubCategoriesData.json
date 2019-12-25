@@ -1,0 +1,3866 @@
+{
+    "folders": [
+        {
+            "id": "1",
+            "title": "root",
+            "imgURL": "assets/l8.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "folder",
+                    "id": "2"
+                },
+                {
+                    "type": "folder",
+                    "id": "11"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "TV Shows",
+            "imgURL": "assets/l11.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "folder",
+                    "id": "3"
+                },
+                {
+                    "type": "folder",
+                    "id": "4"
+                },
+                {
+                    "type": "folder",
+                    "id": "5"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Live",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
+            "pubDate": "",
+            "description": "Live feeds",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": "live"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "On Demand",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/roku-OnDemand.jpg",
+            "pubDate": "",
+            "description": "",
+            "contents": [
+                {
+                    "type": "folder",
+                    "id": 10581
+                },
+                {
+                    "type": "folder",
+                    "id": 10470
+                },
+                {
+                    "type": "folder",
+                    "id": 10452
+                },
+                {
+                    "type": "folder",
+                    "id": 10279
+                },
+                {
+                    "type": "folder",
+                    "id": 10233
+                },
+                {
+                    "type": "folder",
+                    "id": 10071
+                },
+                {
+                    "type": "folder",
+                    "id": 9836
+                },
+                {
+                    "type": "folder",
+                    "id": 9799
+                },
+                {
+                    "type": "folder",
+                    "id": 9670
+                },
+                {
+                    "type": "folder",
+                    "id": 9476
+                },
+                {
+                    "type": "folder",
+                    "id": 9354
+                },
+                {
+                    "type": "folder",
+                    "id": 9324
+                },
+                {
+                    "type": "folder",
+                    "id": 9205
+                },
+                {
+                    "type": "folder",
+                    "id": 9023
+                },
+                {
+                    "type": "folder",
+                    "id": 8804
+                },
+                {
+                    "type": "folder",
+                    "id": 8646
+                },
+                {
+                    "type": "folder",
+                    "id": 8616
+                },
+                {
+                    "type": "folder",
+                    "id": 8595
+                },
+                {
+                    "type": "folder",
+                    "id": 8534
+                },
+                {
+                    "type": "folder",
+                    "id": 8366
+                },
+                {
+                    "type": "folder",
+                    "id": 8212
+                },
+                {
+                    "type": "folder",
+                    "id": 7902
+                },
+                {
+                    "type": "folder",
+                    "id": 7889
+                },
+                {
+                    "type": "folder",
+                    "id": 7665
+                },
+                {
+                    "type": "folder",
+                    "id": 7641
+                },
+                {
+                    "type": "folder",
+                    "id": 7301
+                },
+                {
+                    "type": "folder",
+                    "id": 7257
+                },
+                {
+                    "type": "folder",
+                    "id": 7073
+                },
+                {
+                    "type": "folder",
+                    "id": 6952
+                },
+                {
+                    "type": "folder",
+                    "id": 6951
+                },
+                {
+                    "type": "folder",
+                    "id": 6883
+                },
+                {
+                    "type": "folder",
+                    "id": 6884
+                },
+                {
+                    "type": "folder",
+                    "id": 6885
+                },
+                {
+                    "type": "folder",
+                    "id": 6888
+                },
+                {
+                    "type": "folder",
+                    "id": 6890
+                },
+                {
+                    "type": "folder",
+                    "id": 6891
+                },
+                {
+                    "type": "folder",
+                    "id": 6892
+                },
+                {
+                    "type": "folder",
+                    "id": 6893
+                }
+            ]
+        },
+        {
+            "id": 10581,
+            "title": "KINGDOM",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1564541022.jpg",
+            "description": "Sermon on the Mount\r\nThe Radical Minimum Standards of Christianity are the baseline of what is expected as followers of Jesus.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 35548
+                },
+                {
+                    "type": "media",
+                    "id": 35510
+                },
+                {
+                    "type": "media",
+                    "id": 35439
+                },
+                {
+                    "type": "media",
+                    "id": 35401
+                },
+                {
+                    "type": "media",
+                    "id": 35365
+                },
+                {
+                    "type": "media",
+                    "id": 35322
+                },
+                {
+                    "type": "media",
+                    "id": 35269
+                },
+                {
+                    "type": "media",
+                    "id": 35234
+                }
+            ]
+        },
+        {
+            "id": 10470,
+            "title": "R E B E L",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1560176005.jpg",
+            "description": "An altered perspective",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 35191
+                },
+                {
+                    "type": "media",
+                    "id": 35143
+                },
+                {
+                    "type": "media",
+                    "id": 35103
+                },
+                {
+                    "type": "media",
+                    "id": 34995
+                },
+                {
+                    "type": "media",
+                    "id": 34946
+                },
+                {
+                    "type": "media",
+                    "id": 34904
+                },
+                {
+                    "type": "media",
+                    "id": 34844
+                },
+                {
+                    "type": "media",
+                    "id": 34787
+                },
+                {
+                    "type": "media",
+                    "id": 34701
+                }
+            ]
+        },
+        {
+            "id": 10452,
+            "title": "A Defining DNA",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1559572079.jpg",
+            "description": "There are 3 Distinct DNA Markers that distinguish and define every follower of Jesus and every Church.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 34643
+                }
+            ]
+        },
+        {
+            "id": 10279,
+            "title": "UNKNOWN",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1553528795.jpg",
+            "description": "We are looking at unknown factors in the Bible that had massive ramifications for what we are still talking about thousands of years later. ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 34600
+                },
+                {
+                    "type": "media",
+                    "id": 34490
+                },
+                {
+                    "type": "media",
+                    "id": 34409
+                },
+                {
+                    "type": "media",
+                    "id": 34379
+                },
+                {
+                    "type": "media",
+                    "id": 34279
+                },
+                {
+                    "type": "media",
+                    "id": 34234
+                },
+                {
+                    "type": "media",
+                    "id": 34233
+                },
+                {
+                    "type": "media",
+                    "id": 34154
+                },
+                {
+                    "type": "media",
+                    "id": 34080
+                },
+                {
+                    "type": "media",
+                    "id": 34017
+                },
+                {
+                    "type": "media",
+                    "id": 33953
+                }
+            ]
+        },
+        {
+            "id": 10233,
+            "title": "Psalm 23",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1553537616.jpg",
+            "description": "Join us as we take part in a study of Psalm 23 and the comfort that Jesus brings as our Shepherd.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 33891
+                },
+                {
+                    "type": "media",
+                    "id": 33836
+                },
+                {
+                    "type": "media",
+                    "id": 33771
+                }
+            ]
+        },
+        {
+            "id": 10071,
+            "title": "VOICE",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1546733114.png",
+            "description": "The purpose of this series is to answer the question does God speak? How does He speak? How do I know when He is Speaking to Me? What do I do to when He speaks?",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 33665
+                },
+                {
+                    "type": "media",
+                    "id": 33585
+                },
+                {
+                    "type": "media",
+                    "id": 33520
+                },
+                {
+                    "type": "media",
+                    "id": 33442
+                },
+                {
+                    "type": "media",
+                    "id": 33388
+                },
+                {
+                    "type": "media",
+                    "id": 33322
+                },
+                {
+                    "type": "media",
+                    "id": 33244
+                }
+            ]
+        },
+        {
+            "id": 9836,
+            "title": "Warfare",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1553537474.jpg",
+            "description": "\"For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.\" Ephesians 6:12  \r\nAs believers we DO NOT live in fear, but instead we are called to stand firm.  ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 33195
+                },
+                {
+                    "type": "media",
+                    "id": 33118
+                },
+                {
+                    "type": "media",
+                    "id": 33040
+                },
+                {
+                    "type": "media",
+                    "id": 32973
+                },
+                {
+                    "type": "media",
+                    "id": 32888
+                },
+                {
+                    "type": "media",
+                    "id": 32828
+                },
+                {
+                    "type": "media",
+                    "id": 32744
+                },
+                {
+                    "type": "media",
+                    "id": 32643
+                },
+                {
+                    "type": "media",
+                    "id": 32518
+                }
+            ]
+        },
+        {
+            "id": 9799,
+            "title": "Compassion Weekend",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1540757805.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 32426
+                }
+            ]
+        },
+        {
+            "id": 9670,
+            "title": "Prodigal",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1538429446.jpg",
+            "description": "Join us as we study the parable of the Prodigal Son. We look to the three main characters the son, the father, and the brother to see their perspectives in this story of rebellion and redemption. ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 32374
+                },
+                {
+                    "type": "media",
+                    "id": 32219
+                },
+                {
+                    "type": "media",
+                    "id": 32090
+                }
+            ]
+        },
+        {
+            "id": 9476,
+            "title": "Famous: Stories from the Bible",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1534078833.jpg",
+            "description": "Join us as we examine popular stories from the Bible that are often taught at a young age and how those lessons have great implications for us still.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 32024
+                },
+                {
+                    "type": "media",
+                    "id": 31931
+                },
+                {
+                    "type": "media",
+                    "id": 31766
+                },
+                {
+                    "type": "media",
+                    "id": 31667
+                },
+                {
+                    "type": "media",
+                    "id": 31664
+                },
+                {
+                    "type": "media",
+                    "id": 31565
+                },
+                {
+                    "type": "media",
+                    "id": 31520
+                },
+                {
+                    "type": "media",
+                    "id": 31499
+                },
+                {
+                    "type": "media",
+                    "id": 31443
+                },
+                {
+                    "type": "media",
+                    "id": 31379
+                }
+            ]
+        },
+        {
+            "id": 9354,
+            "title": "The Book of Judges",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1532266078.jpg",
+            "description": "The book of Judges has many incredible stories of God's deliverance of His people in the Old Testament.                                                                                                          Join us as we examine a few of these incredible stories of the men and women God raised up to lead His people.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 31301
+                },
+                {
+                    "type": "media",
+                    "id": 31226
+                },
+                {
+                    "type": "media",
+                    "id": 31110
+                },
+                {
+                    "type": "media",
+                    "id": 31009
+                }
+            ]
+        },
+        {
+            "id": 9324,
+            "title": "Freedom Weekend",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1531679744.jpg",
+            "description": "Galatians 5:1  For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.\r\nWe hear the stories of two U.S. servicemen PO1 Tyson Schmidt, U.S. Navy and SSG Daniel Gilland, U.S. Army. They describe their struggle after tragic injuries and their redemption in Jesus Christ.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 30928
+                }
+            ]
+        },
+        {
+            "id": 9205,
+            "title": "Ruth ",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1528048485.png",
+            "description": "There is prodigal in all of us.  The desire to know for ourselves what many have warned us against is the propensity within us all.  Many have gone before us, warning us, steering us away from the distant country of regrets and remorse, but the draw is magnetic.  Unfortunately, the only aspects that seem to adhere are the unfortunate mishaps and mistakes that label you and shame you.  The story of Ruth is one of Return, Reconciliation, and Restoration.  ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 30849
+                },
+                {
+                    "type": "media",
+                    "id": 30818
+                },
+                {
+                    "type": "media",
+                    "id": 30753
+                },
+                {
+                    "type": "media",
+                    "id": 29504
+                },
+                {
+                    "type": "media",
+                    "id": 29452
+                }
+            ]
+        },
+        {
+            "id": 9023,
+            "title": "Winsome",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1523219145.jpg",
+            "description": "Often times, we begin with the fear, what do I say, but this series is not so much built on what you say, but how you live.  THUS OUR ENTIRE SERIES CALLED WINSOME! ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 29325
+                },
+                {
+                    "type": "media",
+                    "id": 29236
+                },
+                {
+                    "type": "media",
+                    "id": 29152
+                },
+                {
+                    "type": "media",
+                    "id": 29078
+                },
+                {
+                    "type": "media",
+                    "id": 28982
+                },
+                {
+                    "type": "media",
+                    "id": 28875
+                },
+                {
+                    "type": "media",
+                    "id": 28754
+                }
+            ]
+        },
+        {
+            "id": 8804,
+            "title": "More Than Words",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1520459793.png",
+            "description": "For the next seven weeks we will listen, learn and lean into\r\nthe final words of Jesus upon the cross, seeking to understand why He chose these seven statements,\r\nwhat did they mean in context, and how do they lead us to respond today.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 28693
+                },
+                {
+                    "type": "media",
+                    "id": 28692
+                },
+                {
+                    "type": "media",
+                    "id": 28535
+                },
+                {
+                    "type": "media",
+                    "id": 28393
+                },
+                {
+                    "type": "media",
+                    "id": 28238
+                },
+                {
+                    "type": "media",
+                    "id": 28110
+                },
+                {
+                    "type": "media",
+                    "id": 27933
+                },
+                {
+                    "type": "media",
+                    "id": 27817
+                }
+            ]
+        },
+        {
+            "id": 8646,
+            "title": "21 Days: Praying and Fasting for the Harvest",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1515553139.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 27740
+                },
+                {
+                    "type": "media",
+                    "id": 27606
+                },
+                {
+                    "type": "media",
+                    "id": 27535
+                },
+                {
+                    "type": "media",
+                    "id": 27456
+                },
+                {
+                    "type": "media",
+                    "id": 27354
+                }
+            ]
+        },
+        {
+            "id": 8616,
+            "title": "Vision Weekend",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1515360296.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 27276
+                }
+            ]
+        },
+        {
+            "id": 8595,
+            "title": "Finding Favor",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1514925320.png",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 27207
+                }
+            ]
+        },
+        {
+            "id": 8534,
+            "title": "Unwrapping Christmas",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1513024666.png",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 27124
+                },
+                {
+                    "type": "media",
+                    "id": 27088
+                },
+                {
+                    "type": "media",
+                    "id": 26937
+                }
+            ]
+        },
+        {
+            "id": 8366,
+            "title": "The Fight",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1553537753.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 26830
+                },
+                {
+                    "type": "media",
+                    "id": 26720
+                },
+                {
+                    "type": "media",
+                    "id": 26658
+                },
+                {
+                    "type": "media",
+                    "id": 26597
+                },
+                {
+                    "type": "media",
+                    "id": 26487
+                },
+                {
+                    "type": "media",
+                    "id": 26375
+                },
+                {
+                    "type": "media",
+                    "id": 26267
+                }
+            ]
+        },
+        {
+            "id": 8212,
+            "title": "Jesus is More...",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1505147548.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 26190
+                },
+                {
+                    "type": "media",
+                    "id": 26103
+                },
+                {
+                    "type": "media",
+                    "id": 25994
+                },
+                {
+                    "type": "media",
+                    "id": 25919
+                },
+                {
+                    "type": "media",
+                    "id": 25783
+                },
+                {
+                    "type": "media",
+                    "id": 25704
+                }
+            ]
+        },
+        {
+            "id": 7902,
+            "title": "The Passion and Pursuit",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1499026179.jpg",
+            "description": "Join us this summer as we take an in depth look into the life of King David.  From his victorious exploits as a ruddy youth to the legacy he passed down through generations. David was passionate in all of his pursuits causing him to be called a \"man after God's own heart.\" ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 25648
+                },
+                {
+                    "type": "media",
+                    "id": 25424
+                },
+                {
+                    "type": "media",
+                    "id": 25258
+                },
+                {
+                    "type": "media",
+                    "id": 25180
+                },
+                {
+                    "type": "media",
+                    "id": 25095
+                },
+                {
+                    "type": "media",
+                    "id": 25013
+                },
+                {
+                    "type": "media",
+                    "id": 24928
+                },
+                {
+                    "type": "media",
+                    "id": 24894
+                },
+                {
+                    "type": "media",
+                    "id": 24760
+                }
+            ]
+        },
+        {
+            "id": 7889,
+            "title": "Guest Speaker: Brent Crowe, Ph.D.",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1498499340.jpg",
+            "description": "We study Jesus' conversation on the cross with the criminal next to Him, which gives us a beautiful example of His grace.  \r\n\r\n\"Then one of the criminals who were hanged blasphemed Him, saying, 'If You are the Christ, save Yourself and us.'\r\nBut the other, answering, rebuked him, saying, 'Do you not even fear God, seeing you are under the same condemnation? \r\nAnd we indeed justly, for we receive the due reward of our deeds; but this Man has done nothing wrong.'\r\nThen he said to Jesus, 'Lord, remember me when You come into Your kingdom.'\r\nAnd Jesus said to him, 'Assuredly, I say to you, today you will be with Me in Paradise.'\"\r\nLuke 23: 39-43.  ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 24706
+                }
+            ]
+        },
+        {
+            "id": 7665,
+            "title": "Radical",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1494872632.jpg",
+            "description": "The perception of an individual's significance is usually without the filter of a backstory of the investment of those in the background. Therefore, your legacy as a person of significant influence is not only defined by the tangible qualities you possess, but also the intangible qualities you deposit.  ",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 24607
+                },
+                {
+                    "type": "media",
+                    "id": 24501
+                },
+                {
+                    "type": "media",
+                    "id": 24423
+                },
+                {
+                    "type": "media",
+                    "id": 24331
+                },
+                {
+                    "type": "media",
+                    "id": 24223
+                },
+                {
+                    "type": "media",
+                    "id": 24122
+                }
+            ]
+        },
+        {
+            "id": 7641,
+            "title": "How to Get God's Blessing in Your Home",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1494269303.jpg",
+            "description": "We've all heard athletes, actors, couples, and successful people thank the Lord for blessing their lives. How do we get Gods blessings in our home?",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 24035
+                }
+            ]
+        },
+        {
+            "id": 7301,
+            "title": "I Am",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1489428677.jpg",
+            "description": "You are the workmanship of God, created for Him to give glory to Him by living through Him. The greatest challenge to a life of higher calling is a failure to understand who the One is doing the calling. Therefore, to live life with meaning, magnitude, and great measure, I must allow my limitations of\r\nwhat \"I am not\" to be transformed by the \"I AM\".",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 23895
+                },
+                {
+                    "type": "media",
+                    "id": 23811
+                },
+                {
+                    "type": "media",
+                    "id": 23707
+                },
+                {
+                    "type": "media",
+                    "id": 23496
+                },
+                {
+                    "type": "media",
+                    "id": 23398
+                },
+                {
+                    "type": "media",
+                    "id": 23256
+                },
+                {
+                    "type": "media",
+                    "id": 23088
+                },
+                {
+                    "type": "media",
+                    "id": 22970
+                }
+            ]
+        },
+        {
+            "id": 7257,
+            "title": "Get With The Good Shepherd",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1488834899.jpg",
+            "description": "Jason Cook played collegiate football at The University of Mississippi (Ole Miss) where he would be a 4 year starter and 4 year letter winner at Fullback. In 2009, Jason enjoyed a brief stint with the Baltimore Ravens through the pre-season before embracing the call to ministry.  Jason holds a Masters of Divinity from Beeson Divinity School in Birmingham, Alabama.  Jason and his wife Courtney, have two children Charlie and Cager. Together they serve as the Associate Pastor of Preaching at Fellowship Memphis and as the editor with the Gospel Coalition contributing to the Faith and Work initiative.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 22830
+                }
+            ]
+        },
+        {
+            "id": 7073,
+            "title": "40 Days",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1485273869.jpg",
+            "description": "40 days of prayer and fasting with Dr. Ed Newton",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 22680
+                },
+                {
+                    "type": "media",
+                    "id": 22528
+                },
+                {
+                    "type": "media",
+                    "id": 22418
+                },
+                {
+                    "type": "media",
+                    "id": 22329
+                },
+                {
+                    "type": "media",
+                    "id": 22106
+                },
+                {
+                    "type": "media",
+                    "id": 21982
+                },
+                {
+                    "type": "media",
+                    "id": 21981
+                },
+                {
+                    "type": "media",
+                    "id": 21980
+                }
+            ]
+        },
+        {
+            "id": 6952,
+            "title": "Joseph: A Life of Legacy",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1483469751.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21641
+                },
+                {
+                    "type": "media",
+                    "id": 21652
+                },
+                {
+                    "type": "media",
+                    "id": 21651
+                },
+                {
+                    "type": "media",
+                    "id": 21649
+                },
+                {
+                    "type": "media",
+                    "id": 21648
+                },
+                {
+                    "type": "media",
+                    "id": 21647
+                },
+                {
+                    "type": "media",
+                    "id": 21643
+                },
+                {
+                    "type": "media",
+                    "id": 21642
+                }
+            ]
+        },
+        {
+            "id": 6951,
+            "title": "Our House",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1485273793.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21994
+                }
+            ]
+        },
+        {
+            "id": 6883,
+            "title": "Greatest Love Story Ever",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482354913.png",
+            "description": "\"Advent\" means \"coming\" or \"arrival.\" Learn how prepare for the arrival of Jesus Christ as we celebrate His birth and Second Coming.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21429
+                }
+            ]
+        },
+        {
+            "id": 6884,
+            "title": "The Holy Spirit",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482354967.jpg",
+            "description": "Discover the foundation principles of the Holy Spirit.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21436
+                },
+                {
+                    "type": "media",
+                    "id": 21435
+                },
+                {
+                    "type": "media",
+                    "id": 21434
+                },
+                {
+                    "type": "media",
+                    "id": 21433
+                },
+                {
+                    "type": "media",
+                    "id": 21432
+                },
+                {
+                    "type": "media",
+                    "id": 21431
+                },
+                {
+                    "type": "media",
+                    "id": 21430
+                }
+            ]
+        },
+        {
+            "id": 6885,
+            "title": "Family Talk",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482355556.jpg",
+            "description": "Getting' real where it really matters.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21443
+                },
+                {
+                    "type": "media",
+                    "id": 21441
+                },
+                {
+                    "type": "media",
+                    "id": 21442
+                },
+                {
+                    "type": "media",
+                    "id": 21440
+                },
+                {
+                    "type": "media",
+                    "id": 21439
+                },
+                {
+                    "type": "media",
+                    "id": 21438
+                },
+                {
+                    "type": "media",
+                    "id": 21437
+                }
+            ]
+        },
+        {
+            "id": 6888,
+            "title": "A Message for Mom",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482356139.jpg",
+            "description": "A time of blessing for mothers here and around the world.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21446
+                }
+            ]
+        },
+        {
+            "id": 6890,
+            "title": "This I Believe",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482356344.jpg",
+            "description": "Studying the eye-opening moments where people have said \"This I Believe\".",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21455
+                },
+                {
+                    "type": "media",
+                    "id": 21454
+                },
+                {
+                    "type": "media",
+                    "id": 21453
+                },
+                {
+                    "type": "media",
+                    "id": 21452
+                },
+                {
+                    "type": "media",
+                    "id": 21451
+                },
+                {
+                    "type": "media",
+                    "id": 21450
+                },
+                {
+                    "type": "media",
+                    "id": 21449
+                }
+            ]
+        },
+        {
+            "id": 6891,
+            "title": "Easter 2016: This I Believe",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482356720.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21456
+                }
+            ]
+        },
+        {
+            "id": 6892,
+            "title": "The Seven",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1491413894.jpg",
+            "description": "Looking at the seven churches of Asia and how they prophetically, practically, pragmatically and personally relate to us as individuals.",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21463
+                },
+                {
+                    "type": "media",
+                    "id": 21462
+                },
+                {
+                    "type": "media",
+                    "id": 21461
+                },
+                {
+                    "type": "media",
+                    "id": 21460
+                },
+                {
+                    "type": "media",
+                    "id": 21459
+                },
+                {
+                    "type": "media",
+                    "id": 21458
+                },
+                {
+                    "type": "media",
+                    "id": 21457
+                }
+            ]
+        },
+        {
+            "id": 6893,
+            "title": "Our House",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/org_715_1482357260.jpg",
+            "description": "",
+            "contents": [
+                {
+                    "type": "media",
+                    "id": 21472
+                }
+            ]
+        }
+    ],
+    "media": [
+        {
+            "id": "live",
+            "title": "",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
+            "videoURL": "https://playback-oregon.mediafusionapp.com/platnorec/_definst_/ngrp:Live_1_1@705591_all/playlist.m3u8",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                ""
+            ],
+            "description": "live feeds"
+        },
+     
+        {
+            "id": 35548,
+            "title": "Resisting Retaliation",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1569873624.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1569873624.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1569872811-9-29-19JWOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+
+        {
+            "id": 35510,
+            "title": "Proof",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1569242409.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1569242409.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1569184031-9-22-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35439,
+            "title": "People",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1568669761.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1568669761.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1568660239-9-15-19ENOnDemand2(1).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35401,
+            "title": "Purity",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1567991304.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1567991304.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1567977176-9-8-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35365,
+            "title": "Passion",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1567372036.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1567372036.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1567371923-9-1-19ENOnDemand_1.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35322,
+            "title": "Precepts",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1566766418.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1566766418.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1566764053-8-25-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35269,
+            "title": "Purpose",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1566158961.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1566158961.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1566158075-8-18-19ENOnDemand(2).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35234,
+            "title": "Promises",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1565559558.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1565559558.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1565559211-8-11-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35191,
+            "title": "No Doubt",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1564958299.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1564958299.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1564952224-8-4-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35143,
+            "title": "Above All",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1564345273.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1564345273.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1564341312-7-28-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 35103,
+            "title": "Meekness is not a Weakness",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1563740409.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1563740409.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1563740158-7-21-19HKOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34995,
+            "title": "BeLoved",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1563136043.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1563136043.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1563135986-7-14-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34946,
+            "title": "You Belong Here",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1562528684.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1562528684.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1562523247-7-7-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34904,
+            "title": "Now, Introducing Jesus",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1561926998.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1561926998.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1561926787-6-30-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34844,
+            "title": "Audience of One",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1561387830.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1561387830.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1561324665-6-23-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34787,
+            "title": "A Father's Heart",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1560793232.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1560793232.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1560791902-6-16-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34701,
+            "title": "I Saw The Sign",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1560124195.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1560124195.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1560124100-6-9-19ENOnDemand2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34643,
+            "title": "A Defining DNA",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1559572559.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1559572559.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1559572388-6-2-19ENOnDemand2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34600,
+            "title": "Unknown Stone",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1558902585.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1558902585.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1558902397-5-26-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34490,
+            "title": "Unknown Day",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1558296919.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1558296919.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1558296714-5-19-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34409,
+            "title": "Unknown Mom",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557690784.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557690784.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1557689008-5-12-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34379,
+            "title": "Unknown Eternity",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557088158.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557088158.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1557087702-5-5-19REOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34279,
+            "title": "Unknown (g)od",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1556478020.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1556478020.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1556477891-4-28-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34234,
+            "title": "Unknown Interruption ",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557676308.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1557676308.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1557676253-4-21-19ENOnDemand2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34233,
+            "title": "Unknown Cup",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1555873449.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1555873449.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1555873375-4-19-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34154,
+            "title": "Unknown Condition",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1555273113.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1555273113.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1555272972-4-14-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34080,
+            "title": "Unknown Sin",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1554667148.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1554667148.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1554666145-4-7-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 34017,
+            "title": "Unknown Friends",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1554131662.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1554131662.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1554061223-3-31-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33953,
+            "title": "Unknown Church - The Antioch Effect",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1553454952.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1553454952.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1553454521-3-24-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33891,
+            "title": "Psalm 23 Part 3",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1552858335.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1552858335.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1552858307-3-17-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33836,
+            "title": "Psalm 23 Part 2",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1552249162.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1552249162.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1552249076-3-10-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33771,
+            "title": "Psalm 23 Part 1",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1551644787.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1551644787.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1551644111-3-3-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33665,
+            "title": "A Corporate Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1550436669.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1550436669.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1550436609-2-17-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33585,
+            "title": "The Comforting Voice ",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1549833942.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1549833942.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1549828402-2-10-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33520,
+            "title": "A Clarifying Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1549223464.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1549223464.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1549223292-2-3-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33442,
+            "title": "The Constant Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1548624053.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1548624053.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1548623959-1-27-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33388,
+            "title": "Commanding Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1548014770.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1548014770.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1548014676-1-20-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33322,
+            "title": "The Competing Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1547412635.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1547412635.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1547411960-1-13-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33244,
+            "title": "A Chosen Voice",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1546807286.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1546807286.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1546807242-1-6-19ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33195,
+            "title": "Warfare Recap ",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1546200849.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1546200849.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1546200480-12-30-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33118,
+            "title": "Helmet of Hope",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1545599600.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1545599600.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1545599457-12-23-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 33040,
+            "title": "Fireproof",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1544994378.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1544994378.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1544994228-12-16-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32973,
+            "title": "No Shoes No Service",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1544387108.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1544387108.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1544386912-12-9-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32888,
+            "title": "Abs of Steel",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1543777995.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1543777995.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1543777705-12-2-18DWOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32828,
+            "title": "Buckle Up",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1543176582.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1543176582.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1543176546-11-25-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32744,
+            "title": "Tried & True",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1542574467.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1542574467.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1542574254-11-18-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32643,
+            "title": "Forbidden Fruit",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1541968599.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1541968599.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1541968501-11-11-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32518,
+            "title": "Cosmic Clash",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1541367770.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1541367770.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1541366524-11-4-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32426,
+            "title": "Compassion Weekend",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1540758454.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1540758454.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1540758405-10-28-18ENOnDemand(1).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32374,
+            "title": "Missing Out",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1540220042.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1540220042.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1540219999-10-21-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32219,
+            "title": "Royal Reception",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1539622080.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1539622080.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1539551434-10-14-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32090,
+            "title": "Empty Handed",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1539013772.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1539013772.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1538941335-10-7-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 32024,
+            "title": "A Whale of a Journey",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1538336300.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1538336300.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1538336169-9-30-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31931,
+            "title": "Invisible, but Invincible! ",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1537731325.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1537731325.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1537731094-9-23-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31766,
+            "title": "Faith over Fear",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1537129147.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1537129147.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1537128835-9-16-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31667,
+            "title": "Months of Miracles: Radical Generosity Breaks Out",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1536528509.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1536528509.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1536528425-9-9-18ENRadicalGenerosity_MediaFusion.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31664,
+            "title": "The Lesson In The Lunchable",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1536518511.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1536518511.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1536518450-9-9-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31565,
+            "title": "Outside the Box",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535915979.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535915979.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1535915759-9-2-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31520,
+            "title": "Do You See Me Now? (1pm Service)",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535399515.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535399515.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1535399452-8-26-18ENOnDemand2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31499,
+            "title": "Do You See Me Now? (10am Service)",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535395044.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1535395044.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1535308187-8-26-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31443,
+            "title": "Living in Limb-o",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1534715412.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1534715412.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1534715279-8-19-18ENOndemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31379,
+            "title": "Lion Heart",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1534105627.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1534105627.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1534105588-8-12-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31301,
+            "title": "Keeping it 300",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1533496661.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1533496661.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1533496357-8-5-18DWOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31226,
+            "title": "To Fleece or not to Fleece",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1532890405.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1532890405.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1532888137-7-29-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31110,
+            "title": "The Checklist",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1532294116.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1532294116.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1532293197-7-22-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 31009,
+            "title": "Why not you?",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1531683099.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1531683099.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1531682964-7-15-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 30928,
+            "title": "Freedom Weekend",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1531077335.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1531077335.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1531076251-7-8-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 30849,
+            "title": "Paid in Full",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1530472818.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1530472818.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1530472519-7-1-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 30818,
+            "title": "Sleepless and Single",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1529951634.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1529951634.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1529947232-6-24-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 30753,
+            "title": "Failure to Launch",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1529336885.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1529336885.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1529334411-6-17-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29504,
+            "title": "Not a Chance",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1528658457.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1528658457.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1528658379-6-10-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29452,
+            "title": "Come Home",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1528053091.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1528053091.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1528052860-6-3-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29325,
+            "title": "Destination Sticker",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1526915648.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1526915648.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1526915493-5-20-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29236,
+            "title": "High 5",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1526315680.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1526315680.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1526314611-5-13-18SNOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29152,
+            "title": "Radical Hospitality: Battle for Community",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1525632308.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1525632308.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1525631773-5-6-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 29078,
+            "title": "Whatever",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1525031685.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1525031685.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1525031326-4-29-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28982,
+            "title": "The Greatest",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1524426845.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1524426845.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1524426346-4-22-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28875,
+            "title": "MVP (Makes Value Possible)",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1523821561.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1523821561.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1523821368-4-15-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28754,
+            "title": "Counter-Cultural",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1523217312.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1523217312.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1523216829-4-8-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28693,
+            "title": "IT AIN'T OVER! ",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522792744.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522792744.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1522792618-4-1-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28692,
+            "title": "Thirst-Quencher (Part2)",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522791729.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522791729.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1522791620-3-30-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28535,
+            "title": "Thirst-Quencher",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522075627.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1522075627.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1522019547-3-25-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28393,
+            "title": "Midnight at Mid-day",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1521402507.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1521402507.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1521401618-3-18-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28238,
+            "title": "Heaven, Yes (Part2)",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1520798388.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1520798388.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1520798293-3-11-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 28110,
+            "title": "Heaven, Yes",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1520195355.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1520195355.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1520195210-3-4-18ENOnDemand(1).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27933,
+            "title": "Tale of Two Thieves",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1519589814.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1519589814.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1519587641-2-25-18DWOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27817,
+            "title": "Unresolved",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1518987542.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1518987542.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1518986469-2-18-18ENOnDemand(1).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27740,
+            "title": "Breakthroughs!",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1518449014.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1518449014.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1518444328-2-11-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27606,
+            "title": "The Difference Maker",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1517866912.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1517866912.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1517866824-2-4-18ENOnDemand3.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27535,
+            "title": "Water Cooler Conversation - Part 3",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1517174834.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1517174834.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1517174799-1-28-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27456,
+            "title": "Water Cooler Conversation - Part 2",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1516567642.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1516567642.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1516566950-1-21-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27354,
+            "title": "Water Cooler Conversation - Part 1",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1515959801.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1515959801.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1515959694-1-14-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27276,
+            "title": "To Be Continued...",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1515361052.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1515361052.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1515360510-1-7-18ENOnDemand.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27207,
+            "title": "Finding Favor",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1514925062.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1514925062.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1514921552-12-31-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27124,
+            "title": "Mary Magnificat",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1514145367.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1514145367.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1514144786-12-24-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 27088,
+            "title": "The Big Reveal",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1513805393.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1513805393.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1513803100-12-17-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26937,
+            "title": "Non Negotiable",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1513033430.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1513033430.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1513030967-12-10-17ENODRe-do.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26830,
+            "title": "Hungry for More, Satisfied with Less",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1512334656.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1512334656.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1512334054-12-3-17DWOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26720,
+            "title": "Tripping on Tryptophan",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1511730288.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1511730288.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1511729870-11-26-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26658,
+            "title": "Never a Boring Testimony",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1511123156.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1511123156.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1511120597-11-19-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26597,
+            "title": "Rules Of Engagement",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1510515957.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1510515957.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1510514967-11-11-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26487,
+            "title": "Humble Pie",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1509985754.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1509985754.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1509984782-11-4-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26375,
+            "title": "Life-Verse",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1509312001.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1509312001.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1509304909-10-29-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26267,
+            "title": "In it to WIN it",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1508698628.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1508698628.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1508698299-10-22-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26190,
+            "title": "Soul Stretch",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1508252795.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1508252795.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1508247186-10-15-17ENOD(1).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 26103,
+            "title": "Enriched in Exile",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1507488683.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1507488683.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1507488643-10-8-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25994,
+            "title": "Jumping to Joy",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1506887679.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1506887679.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1506887539-10-1-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25919,
+            "title": "Critically Crucial",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1506279221.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1506279221.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1506278743-9-24-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25783,
+            "title": "Divinely Engineered",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1505676302.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1505676302.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1505673085-9-17-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25704,
+            "title": "Fully Known",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1505158916.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1505158916.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1505152109-9-10-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25648,
+            "title": "Four, three letter words...",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1504640687.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1504640687.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1504640654-9-3-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25424,
+            "title": "The Look that Kills",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1503351459.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1503351459.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1503342181-8-20-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25258,
+            "title": "The Testimony of the Table",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1502734964.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1502734964.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1502734517-8-13-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25180,
+            "title": "Six Steps",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1502134194.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1502134194.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1502133180-8-6-17DWOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25095,
+            "title": "Test of Thrones",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1501540204.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1501540204.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1501539718-7-30-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 25013,
+            "title": "Beyond Blue",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1500919221.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1500919221.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1500918930-7-23-17ENOD2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24928,
+            "title": "BFF",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1500240443.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1500240443.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1500235173-7-16-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24894,
+            "title": "The Sling and the Stone",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1499812955.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1499812955.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1499812582-7-9-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24760,
+            "title": "King of Hearts",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1499028182.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1499028182.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1499027467-7-2-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24706,
+            "title": "Guest Speaker: Brent Crowe, Ph.D.",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1498499281.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1498499281.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1498495207-6-25-17BCOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24607,
+            "title": "3rd Watch",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1497910850.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1497910850.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1497910499-6-18-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24501,
+            "title": "Treasure Principle",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1497301821.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1497301821.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1497301520-6-12-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24423,
+            "title": "Gaining While Losing",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1496699460.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1496699460.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1496685582-6-4-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24331,
+            "title": "Pay It Forward",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1496245990.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1496245990.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1496243098-5-28-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24223,
+            "title": "The Enriched Life Part 1",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1495479484.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1495479484.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1495479224-5-21-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24122,
+            "title": "Heart of Heritage",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1494872578.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1494872578.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1494866431-5-15-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 24035,
+            "title": "How to Get God's Blessing in Your Home",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1494272673.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1494272673.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1494269792-5-7-17REOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23895,
+            "title": "The Vineyard of Victory",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1493677268.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1493677268.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1493676912-4-30-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23811,
+            "title": "One-Way",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1493069899.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1493069899.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1493069486-4-23-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23707,
+            "title": "Undefeated",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1492556054.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1492556054.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1492555397-4-16-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23496,
+            "title": "Counting Sheep",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491840798.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491840798.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1491837154-4-9-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23398,
+            "title": "Open Door Policy",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491335628.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491335628.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1491331167-4-2-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23256,
+            "title": "Lite-Bright",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1490629243.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1490629243.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1490626755-3-26-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 23088,
+            "title": "Baker's Dozen",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1490038717.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1490038717.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1490037060-3-19-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22970,
+            "title": "Who I Am!",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1489428744.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1489428744.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1489425580-3-12-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22830,
+            "title": "Get With The Good Shepherd",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1488834051.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1488834051.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1488833535-3-5-17JCOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22680,
+            "title": "A Persistent Prayer",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491840956.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491840956.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1488940650-2-26-17ENODReEdit(2).mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22528,
+            "title": "Don't Forget",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1487616315.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1487616315.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1487615572-2-19-17ENOD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22418,
+            "title": "The Fight",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1487016240.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1487016240.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1487008770-2-12-17ENOD-AppleDevicesHD(MostCompatible).m4v",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22329,
+            "title": "Come to the Cross",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1486575026.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1486575026.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1486574762-ComeToTheCross.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 22106,
+            "title": "Taste and See",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485820834.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485820834.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1485820806-682940539.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21982,
+            "title": "Ever Present Kingdom",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485279217.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485279217.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1485279021-EverPresentKingdom(OnDemand)-HD-2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21981,
+            "title": "No Other Name",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485279202.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485279202.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1485279171-NoOtherName(OnDemand)-HD-2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21980,
+            "title": "Not So Fast",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485286648.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485286648.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1485286348-NotsoFast(OnDemand)-HD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21641,
+            "title": "Joseph: Dry Bones Speaking",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/8-14-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21652,
+            "title": "Joseph: Not Another Day",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/8-6-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21651,
+            "title": "Joseph: The Examination of Elevation",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/7-31-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21649,
+            "title": "Joseph: Untouchable",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/7-17-16_ED_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21648,
+            "title": "Joseph: Secret of Supernatural Success",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/7-10-16_ED_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21647,
+            "title": "Joseph:Boulevard of Broken Dreams",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/7-3-16_ED_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21643,
+            "title": "Joseph: Dare to Dream Again",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/6-26-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21642,
+            "title": "Joseph: Call of Duty",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/Joseph.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/6-19-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21994,
+            "title": "His House Our House",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485291126.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1485291126.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1485287118-HisHouseOurHouse(OnDemand)-HD-2.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21429,
+            "title": "Greatest Love Story Ever - Dr. Daniel Sinquefield",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/GreatestLoveStory.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/GreatestLoveStory.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/12-4-16_DS_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21436,
+            "title": "The Holy Spirit: Heart of the House - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/11-20-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21435,
+            "title": "The Holy Spirit: Gift of Gifts - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/11-13-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21434,
+            "title": "The Holy Spirit: Fruit of the Bloom - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/11-6-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21433,
+            "title": "The Holy Spirit: Talk to Me - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/10-30-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21432,
+            "title": "The Holy Spirit: Sealed Shut - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/10-23-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21431,
+            "title": "Holy Spirit: Seasonal Comforter - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/10-16-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21430,
+            "title": "The Holy Spirit: A Missing Person Report - Dr. Ed Newton",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/HolySpirit.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/10-9-16_ED_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21443,
+            "title": "Family Talk: The Talk of all Talks",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/10-1-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21441,
+            "title": "Family Talk: The Bow and Arrow",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/9-25-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21442,
+            "title": "Family Talk: Wonder Woman",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/9-18-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21440,
+            "title": "Family Talk: Manhood in Marriage",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/9-11-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21439,
+            "title": "Family Talk: Sacred Singleness",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/9-4-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21438,
+            "title": "Family Talk: Throw in the Towel",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/8-28-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21437,
+            "title": "Family Talk: The Making of a Marriage",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/FamilyTalk.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/8-21-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21446,
+            "title": "A Message for Mom",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/MessageMom.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/MessageMom.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/5-8-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21455,
+            "title": "This I Believe: He's With Me",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/5-29-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21454,
+            "title": "This I Believe: Get Out Of Your Boat",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/5-23-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21453,
+            "title": "This I Believe: Wired for Worship",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/5-15-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21452,
+            "title": "This I Believe: True Riches",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/4-24-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21451,
+            "title": "This I Believe: House to House",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/4-17-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21450,
+            "title": "This I Believe: House to House",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/4-10-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21449,
+            "title": "This I Believe: This Crucial Moment!",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/ThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/4-3-16_EN_OD3.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21456,
+            "title": "This I Believe",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/EasterThisBelieve.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/EasterThisBelieve.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/3-27-16_EASTER_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21463,
+            "title": "The Seven: Lukewarm and Loving It",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491414153.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/715_1491414153.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/3-13-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21462,
+            "title": "The Seven: Small, But Mighty",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/3-6-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21461,
+            "title": "The Seven: The Walking Dead",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/2-28-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21460,
+            "title": "The Seven: The Long of the Short of It",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/2-21-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21459,
+            "title": "The Seven: The Dangers of Deception",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/2-14-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21458,
+            "title": "The Seven: Faith in the Fire",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/2-7-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21457,
+            "title": "The Seven: Lost That Loving Feeling",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/TheSeven.png",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1-31-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        },
+        {
+            "id": 21472,
+            "title": "Our House",
+            "pubDate": "",
+            "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_images/OurHouse.jpg",
+            "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_images/OurHouse.jpg",
+            "videoURL": "https://files.mediafusionapp.com/MFAccount_715/1-24-16_EN_OD.mp4",
+            "type": "video",
+            "subtitlesURL": "",
+            "categories": [
+                "Travel"
+            ],
+            "description": ""
+        }
+    ]
+}
