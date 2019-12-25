@@ -23,8 +23,8 @@
             "description": "",
             "contents": [
                 {
-                    "type": "folder",
-                    "id": "3"
+                    "type": "media",
+                    "id": "live"
                 },
                 {
                     "type": "folder",
@@ -41,11 +41,11 @@
             "title": "Live",
             "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
             "pubDate": "",
-            "description": "Live feeds",
+            "description": "",
             "contents": [
                 {
-                    "type": "media",
-                    "id": "live"
+                    "type": "",
+                    "id": ""
                 }
             ]
         },
@@ -1258,7 +1258,7 @@
     "media": [
         {
             "id": "live",
-            "title": "",
+            "title": "Live",
             "pubDate": "",
             "thumbURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
             "imgURL": "https://files.mediafusionapp.com/MFAccount_715/_fireTV/live.jpg",
@@ -1268,7 +1268,7 @@
             "categories": [
                 ""
             ],
-            "description": "live feeds"
+            "description": ""
         },
      
         {
