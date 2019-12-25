@@ -14,6 +14,9 @@
 -->
 <html lang='en'>
 <head>
+
+    <script src="https://admin.mediafusionapp.com/_jwplayer8/jwplayer.js"></script>
+    <script>jwplayer.key="xFVJp9xeI9iL+OeRhwWr82sP13ezwaS/E4kOjlzTSlX3LVKd";</script>
     <title>
         Simple SubCategories Template
     </title>
@@ -136,8 +139,19 @@
     <!-- Player View Template  -->
     <script id="player-view-template" type="text/x-handlebars-template">
         <div id="player-view" class="player-main-container">
-            
         </div>
+    </script>
+
+    <!-- JW Player  -->
+    <div id="jw-player"></div>
+
+    <script type="text/JavaScript">
+             var playerInstance = jwplayer("jw-player");
+                playerInstance.setup({
+            playlist: "./assets/genericSubCategoriesData.json"
+            });
+
+
     </script>
 
     <!-- Custom Controls Template -->
